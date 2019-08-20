@@ -1,0 +1,11 @@
+{
+  "name": "demo-messenger",
+  "version": "0.1.0",
+  "description": "Dead simple messenger",
+  "main": "index.js",
+  "author": "Nico Cross",
+  "license": "MIT",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.3"
+  }
+}
