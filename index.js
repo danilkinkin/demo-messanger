@@ -8,7 +8,7 @@ const loremIpsum = require('lorem-ipsum').loremIpsum;
 
 let init = true;
 let id = 0;
-const roomIds = ['Rick Sanchez', 'Morty Smith', 'Dipper Pines', 'Mabel Pines', 'Spongebob Squarepants'];
+const roomIds = ['Perry the Platypus', 'Tyler Durden', 'Amy Pond', 'Le Petit Prince', 'Dr. Heinz Doofenshmirtz', 'Gregory'];
 const channelIds = ['VK', 'OK', 'FB'];
 
 emit();
